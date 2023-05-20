@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.img {
+    width: 150px;
+    padding: 20px;
+}
+
+
+.card {
+    border-right: 10px solid grey;
+    border-style: ridge;
+    border-radius: 100px 0px 0px 100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(6, 5, 10);
+    width: 700px;
+    box-shadow: 6px 6px 10px black
+    font-weight: bolder;
+    
+}
+
+.bold {
+    font-weight: bolder;
+    color: whitesmoke;
+    text-shadow: 2px 2px black;
+}
+
+.details {
+    color: grey;
+    text-shadow: 2px 2px black;
+}
+
+.left {
+    text-align: right;
+}
